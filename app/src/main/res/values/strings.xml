@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComposeApp</string>
+    <string name="title">FirstComposeProject</string>
+    <string name="phone">Телефон</string>
+    <string name="address">Адрес</string>
+    <string name="email">E-mail</string>
+    <string name="user_avatar">User avatar</string>
+</resources>
